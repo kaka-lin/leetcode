@@ -1,5 +1,6 @@
 import re
 import shutil
+import logging
 from pathlib import Path
 from typing import Tuple
 
@@ -50,7 +51,9 @@ def main():
 
         ok, info = parse_leetcode_info(path)
         if not ok:
-            continue
+            splited = path.name.split('-', 1)
+            info["number"] = splited[0].zfill(5)
+            info["tag"] = splited[1]
 
         leetcode_number = info["number"]
         leetcode_tag = info["tag"]
@@ -62,7 +65,7 @@ def main():
                     dest_file.unlink()
                 src.rename(dest_file)
             shutil.rmtree(path)
-            continue
+            logging.info(f"Moved all files in {path} as {dest_dir}")
         else:
             path.rename(dest_dir)
 
