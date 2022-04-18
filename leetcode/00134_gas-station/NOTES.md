@@ -1,4 +1,4 @@
-​# Solution
+# Solution
 
 ## Reference
 
