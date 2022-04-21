@@ -60,6 +60,9 @@ def main():
         dest_dir = LEETCODE_DIR / f"{leetcode_number}_{leetcode_tag}"
         if leetcode_tag in existing_q_mapping:
             for src in path.glob('*'):
+                if src.name == "NOTES.md":
+                    continue
+
                 dest_file = dest_dir / src.name
                 if dest_file.exists():
                     dest_file.unlink()
