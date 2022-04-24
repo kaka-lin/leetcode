@@ -17,6 +17,9 @@ jobs:
       - name: Move questions to leetcode directory
         run: python3 .github/workflows/scripts/leethub_support.py
 
+      - name: Remove Empty files
+        run: .github/workflows/scripts/remove_empty_file.sh
+
       - name: Commit files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
