@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 14** (<span style="color:green">Easy: 9</span>, <span style="color:orange">Medium: 5</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 16** (<span style="color:green">Easy: 10</span>, <span style="color:orange">Medium: 6</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -11,11 +11,13 @@
 | 00024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | <a href='leetcode/00024_swap-nodes-in-pairs/24-swap-nodes-in-pairs.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | <a href='leetcode/00075_sort-colors/75-sort-colors.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | <a href='leetcode/00094_binary-tree-inorder-traversal/94-binary-tree-inorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | <a href='leetcode/00098_validate-binary-search-tree/98-validate-binary-search-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | <a href='leetcode/00104_maximum-depth-of-binary-tree/104-maximum-depth-of-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00134 | [Gas Station](https://leetcode.com/problems/gas-station/) | <a href='leetcode/00134_gas-station/134-gas-station.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | <a href='leetcode/00144_binary-tree-preorder-traversal/144-binary-tree-preorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | <a href='leetcode/00145_binary-tree-postorder-traversal/145-binary-tree-postorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | <a href='leetcode/00203_remove-linked-list-elements/203-remove-linked-list-elements.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <a href='leetcode/00206_reverse-linked-list/206-reverse-linked-list.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | <a href='leetcode/00257_binary-tree-paths/257-binary-tree-paths.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | <a href='leetcode/00283_move-zeroes/283-move-zeroes.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 
