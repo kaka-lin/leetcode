@@ -18,12 +18,13 @@ class Solution:
                 
                 if root.left:
                     level_stack.append(root.left)
+                
                 if root.right:
                     level_stack.append(root.right)
-                
+            
             ans.append(level_ans)
             stack = level_stack
             level_stack = []
             level_ans = []
-        
+
         return ans

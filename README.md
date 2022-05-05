@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 21** (<span style="color:green">Easy: 13</span>, <span style="color:orange">Medium: 8</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 23** (<span style="color:green">Easy: 14</span>, <span style="color:orange">Medium: 9</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -12,6 +12,7 @@
 | 00075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | <a href='leetcode/00075_sort-colors/75-sort-colors.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | <a href='leetcode/00094_binary-tree-inorder-traversal/94-binary-tree-inorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | <a href='leetcode/00098_validate-binary-search-tree/98-validate-binary-search-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
+| 00101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | <a href='leetcode/00101_symmetric-tree/101-symmetric-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | <a href='leetcode/00102_binary-tree-level-order-traversal/102-binary-tree-level-order-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | <a href='leetcode/00104_maximum-depth-of-binary-tree/104-maximum-depth-of-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00134 | [Gas Station](https://leetcode.com/problems/gas-station/) | <a href='leetcode/00134_gas-station/134-gas-station.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
@@ -19,6 +20,7 @@
 | 00145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | <a href='leetcode/00145_binary-tree-postorder-traversal/145-binary-tree-postorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | <a href='leetcode/00203_remove-linked-list-elements/203-remove-linked-list-elements.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <a href='leetcode/00206_reverse-linked-list/206-reverse-linked-list.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | <a href='leetcode/00236_lowest-common-ancestor-of-a-binary-tree/236-lowest-common-ancestor-of-a-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | <a href='leetcode/00257_binary-tree-paths/257-binary-tree-paths.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | <a href='leetcode/00283_move-zeroes/283-move-zeroes.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | <a href='leetcode/00606_construct-string-from-binary-tree/606-construct-string-from-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
