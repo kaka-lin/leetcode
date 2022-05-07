@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 23** (<span style="color:green">Easy: 14</span>, <span style="color:orange">Medium: 9</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 24** (<span style="color:green">Easy: 15</span>, <span style="color:orange">Medium: 9</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -23,6 +23,7 @@
 | 00236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | <a href='leetcode/00236_lowest-common-ancestor-of-a-binary-tree/236-lowest-common-ancestor-of-a-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | <a href='leetcode/00257_binary-tree-paths/257-binary-tree-paths.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | <a href='leetcode/00283_move-zeroes/283-move-zeroes.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | <a href='leetcode/00344_reverse-string/344-reverse-string.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | <a href='leetcode/00606_construct-string-from-binary-tree/606-construct-string-from-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | <a href='leetcode/00617_merge-two-binary-trees/617-merge-two-binary-trees.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | <a href='leetcode/00637_average-of-levels-in-binary-tree/637-average-of-levels-in-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
