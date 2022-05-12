@@ -9,7 +9,9 @@ class Solution:
         if head is None or head.next is None:
             return head
         
-        ptr = self.reverseList(head.next)
+        curr = self.reverseList(head.next)
         head.next.next = head
         head.next = None
-        return ptr
+        
+        return curr
+        

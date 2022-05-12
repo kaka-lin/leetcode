@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 24** (<span style="color:green">Easy: 15</span>, <span style="color:orange">Medium: 9</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 25** (<span style="color:green">Easy: 16</span>, <span style="color:orange">Medium: 9</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -15,6 +15,7 @@
 | 00101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | <a href='leetcode/00101_symmetric-tree/101-symmetric-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | <a href='leetcode/00102_binary-tree-level-order-traversal/102-binary-tree-level-order-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | <a href='leetcode/00104_maximum-depth-of-binary-tree/104-maximum-depth-of-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | <a href='leetcode/00118_pascals-triangle/118-pascals-triangle.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00134 | [Gas Station](https://leetcode.com/problems/gas-station/) | <a href='leetcode/00134_gas-station/134-gas-station.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | <a href='leetcode/00144_binary-tree-preorder-traversal/144-binary-tree-preorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | <a href='leetcode/00145_binary-tree-postorder-traversal/145-binary-tree-postorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
