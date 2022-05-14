@@ -90,8 +90,9 @@ def get_question_info(questions: List[dict], level_count: Dict) -> int:
             continue
 
         leetcode_tag = info["tag"]
+        info["solutions"] = []
         for sol in path.glob(f"*{leetcode_tag}.*"):
-            info["solutions"] = [sol.suffix, sol]
+            info["solutions"].append([sol.suffix, sol])
 
         questions.append(info)
         level_count[info["difficulty"].lower()] += 1
@@ -106,7 +107,9 @@ def build_readme_table(questions: List[dict]) -> str:
         "| - | - | - | - |\n"
     for q in questions:
         anchored_title = f"[{q['title']}]({q['url']})"
-        solution_links = f"<a href='{q['solutions'][1]}'><img src='{ICONS[q['solutions'][0]]}' width='20' height='20'></a>"
+        solution_links = ""
+        for solution in q['solutions']:
+            solution_links += f"<a href='{solution[1]}'><img src='{ICONS[solution[0]]}' width='20' height='20'></a>"
         md_table += f"| {q['number']} | {anchored_title} " + \
             f"| {solution_links} | {q['difficulty']} |\n"
     return md_table
