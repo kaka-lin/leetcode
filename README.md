@@ -1,15 +1,17 @@
 # Leetcode
 
-**Problem Solved: 30** (<span style="color:green">Easy: 20</span>, <span style="color:orange">Medium: 10</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 33** (<span style="color:green">Easy: 22</span>, <span style="color:orange">Medium: 11</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
 | 00001 | [Two Sum](https://leetcode.com/problems/two-sum/) | <a href='leetcode/00001_two-sum/1-two-sum.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | <a href='leetcode/00011_container-with-most-water/11-container-with-most-water.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | <a href='leetcode/00019_remove-nth-node-from-end-of-list/19-remove-nth-node-from-end-of-list.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
+| 00020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | <a href='leetcode/00020_valid-parentheses/20-valid-parentheses.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <a href='leetcode/00021_merge-two-sorted-lists/21-merge-two-sorted-lists.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | <a href='leetcode/00024_swap-nodes-in-pairs/24-swap-nodes-in-pairs.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | <a href='leetcode/00050_powx-n/50-powx-n.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
+| 00067 | [Add Binary](https://leetcode.com/problems/add-binary/) | <a href='leetcode/00067_add-binary/67-add-binary.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | <a href='leetcode/00070_climbing-stairs/70-climbing-stairs.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | <a href='leetcode/00075_sort-colors/75-sort-colors.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | <a href='leetcode/00094_binary-tree-inorder-traversal/94-binary-tree-inorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
@@ -32,6 +34,7 @@
 | 00606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | <a href='leetcode/00606_construct-string-from-binary-tree/606-construct-string-from-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | <a href='leetcode/00617_merge-two-binary-trees/617-merge-two-binary-trees.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | <a href='leetcode/00637_average-of-levels-in-binary-tree/637-average-of-levels-in-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | <a href='leetcode/00692_top-k-frequent-words/692-top-k-frequent-words.cpp'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width='20' height='20'></a> | Medium |
 | 00700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | <a href='leetcode/00700_search-in-a-binary-search-tree/700-search-in-a-binary-search-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | <a href='leetcode/00814_binary-tree-pruning/814-binary-tree-pruning.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 
