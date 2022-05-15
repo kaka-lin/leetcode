@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 33** (<span style="color:green">Easy: 22</span>, <span style="color:orange">Medium: 11</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 34** (<span style="color:green">Easy: 22</span>, <span style="color:orange">Medium: 12</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -36,5 +36,6 @@
 | 00637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | <a href='leetcode/00637_average-of-levels-in-binary-tree/637-average-of-levels-in-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | <a href='leetcode/00692_top-k-frequent-words/692-top-k-frequent-words.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a><a href='leetcode/00692_top-k-frequent-words/692-top-k-frequent-words.cpp'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width='20' height='20'></a> | Medium |
 | 00700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | <a href='leetcode/00700_search-in-a-binary-search-tree/700-search-in-a-binary-search-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | <a href='leetcode/00721_accounts-merge/721-accounts-merge.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | <a href='leetcode/00814_binary-tree-pruning/814-binary-tree-pruning.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 
