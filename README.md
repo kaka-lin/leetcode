@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 45** (<span style="color:green">Easy: 26</span>, <span style="color:orange">Medium: 19</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 46** (<span style="color:green">Easy: 26</span>, <span style="color:orange">Medium: 20</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -38,6 +38,7 @@
 | 00257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | <a href='leetcode/00257_binary-tree-paths/257-binary-tree-paths.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | <a href='leetcode/00283_move-zeroes/283-move-zeroes.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | <a href='leetcode/00344_reverse-string/344-reverse-string.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | <a href='leetcode/00347_top-k-frequent-elements/347-top-k-frequent-elements.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | <a href='leetcode/00350_intersection-of-two-arrays-ii/350-intersection-of-two-arrays-ii.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | <a href='leetcode/00509_fibonacci-number/509-fibonacci-number.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | <a href='leetcode/00542_01-matrix/542-01-matrix.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
