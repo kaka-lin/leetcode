@@ -1,3 +1,5 @@
+#!/bin/bash
+
 DATE_TODAY=$(date +"%Y-%m-%d")
 
 function isHeadAuthorDateToday() {
@@ -17,7 +19,6 @@ function isHeadGeneratedByLeethub() {
         return 1
     fi
 }
-
 
 anyUnstaged=0
 while isHeadAuthorDateToday && isHeadGeneratedByLeethub
