@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 49** (<span style="color:green">Easy: 26</span>, <span style="color:orange">Medium: 23</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 50** (<span style="color:green">Easy: 26</span>, <span style="color:orange">Medium: 24</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -47,6 +47,7 @@
 | 00542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | <a href='leetcode/00542_01-matrix/542-01-matrix.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | <a href='leetcode/00606_construct-string-from-binary-tree/606-construct-string-from-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | <a href='leetcode/00617_merge-two-binary-trees/617-merge-two-binary-trees.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | <a href='leetcode/00622_design-circular-queue/622-design-circular-queue.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | <a href='leetcode/00637_average-of-levels-in-binary-tree/637-average-of-levels-in-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | <a href='leetcode/00692_top-k-frequent-words/692-top-k-frequent-words.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a><a href='leetcode/00692_top-k-frequent-words/692-top-k-frequent-words.cpp'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width='20' height='20'></a> | Medium |
 | 00700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | <a href='leetcode/00700_search-in-a-binary-search-tree/700-search-in-a-binary-search-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
