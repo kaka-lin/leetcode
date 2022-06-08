@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 57** (<span style="color:green">Easy: 30</span>, <span style="color:orange">Medium: 27</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 58** (<span style="color:green">Easy: 30</span>, <span style="color:orange">Medium: 28</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -41,6 +41,7 @@
 | 00236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | <a href='leetcode/00236_lowest-common-ancestor-of-a-binary-tree/236-lowest-common-ancestor-of-a-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | <a href='leetcode/00240_search-a-2d-matrix-ii/240-search-a-2d-matrix-ii.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | <a href='leetcode/00257_binary-tree-paths/257-binary-tree-paths.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | <a href='leetcode/00279_perfect-squares/279-perfect-squares.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | <a href='leetcode/00283_move-zeroes/283-move-zeroes.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | <a href='leetcode/00344_reverse-string/344-reverse-string.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | <a href='leetcode/00347_top-k-frequent-elements/347-top-k-frequent-elements.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
