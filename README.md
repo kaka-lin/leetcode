@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 56** (<span style="color:green">Easy: 30</span>, <span style="color:orange">Medium: 26</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 57** (<span style="color:green">Easy: 30</span>, <span style="color:orange">Medium: 27</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -58,6 +58,7 @@
 | 00692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | <a href='leetcode/00692_top-k-frequent-words/692-top-k-frequent-words.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a><a href='leetcode/00692_top-k-frequent-words/692-top-k-frequent-words.cpp'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width='20' height='20'></a> | Medium |
 | 00700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | <a href='leetcode/00700_search-in-a-binary-search-tree/700-search-in-a-binary-search-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | <a href='leetcode/00721_accounts-merge/721-accounts-merge.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
+| 00752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | <a href='leetcode/00752_open-the-lock/752-open-the-lock.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | <a href='leetcode/00814_binary-tree-pruning/814-binary-tree-pruning.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | <a href='leetcode/00912_sort-an-array/912-sort-an-array.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 
