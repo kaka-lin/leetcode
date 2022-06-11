@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 61** (<span style="color:green">Easy: 31</span>, <span style="color:orange">Medium: 30</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 63** (<span style="color:green">Easy: 31</span>, <span style="color:orange">Medium: 32</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -30,6 +30,7 @@
 | 00118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | <a href='leetcode/00118_pascals-triangle/118-pascals-triangle.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | <a href='leetcode/00119_pascals-triangle-ii/119-pascals-triangle-ii.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | <a href='leetcode/00128_longest-consecutive-sequence/128-longest-consecutive-sequence.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
+| 00133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | <a href='leetcode/00133_clone-graph/133-clone-graph.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00134 | [Gas Station](https://leetcode.com/problems/gas-station/) | <a href='leetcode/00134_gas-station/134-gas-station.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | <a href='leetcode/00144_binary-tree-preorder-traversal/144-binary-tree-preorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | <a href='leetcode/00145_binary-tree-postorder-traversal/145-binary-tree-postorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
@@ -51,6 +52,7 @@
 | 00371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | <a href='leetcode/00371_sum-of-two-integers/371-sum-of-two-integers.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | <a href='leetcode/00387_first-unique-character-in-a-string/387-first-unique-character-in-a-string.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | <a href='leetcode/00389_find-the-difference/389-find-the-difference.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00494 | [Target Sum](https://leetcode.com/problems/target-sum/) | <a href='leetcode/00494_target-sum/494-target-sum.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | <a href='leetcode/00509_fibonacci-number/509-fibonacci-number.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | <a href='leetcode/00542_01-matrix/542-01-matrix.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | <a href='leetcode/00575_distribute-candies/575-distribute-candies.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
