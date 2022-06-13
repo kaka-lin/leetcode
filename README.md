@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 68** (<span style="color:green">Easy: 35</span>, <span style="color:orange">Medium: 33</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 69** (<span style="color:green">Easy: 36</span>, <span style="color:orange">Medium: 33</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -42,6 +42,7 @@
 | 00206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <a href='leetcode/00206_reverse-linked-list/206-reverse-linked-list.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | <a href='leetcode/00215_kth-largest-element-in-an-array/215-kth-largest-element-in-an-array.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <a href='leetcode/00217_contains-duplicate/217-contains-duplicate.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | <a href='leetcode/00225_implement-stack-using-queues/225-implement-stack-using-queues.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | <a href='leetcode/00230_kth-smallest-element-in-a-bst/230-kth-smallest-element-in-a-bst.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | <a href='leetcode/00232_implement-queue-using-stacks/232-implement-queue-using-stacks.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | <a href='leetcode/00235_lowest-common-ancestor-of-a-binary-search-tree/235-lowest-common-ancestor-of-a-binary-search-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
