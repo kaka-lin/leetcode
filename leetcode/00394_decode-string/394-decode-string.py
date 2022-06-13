@@ -1,4 +1,4 @@
-# By kaka
+# [By kaka]
 # class Solution:
 #     def decodeString(self, s: str) -> str:
 #         repeated = [[]]
@@ -31,9 +31,8 @@
 #                 encoded_string[-1].append(c)
                     
 #         return "".join(encoded_string[-1])
-    
-    
-    
+
+ 
 class Solution:
     def decodeString(self, s: str) -> str:   
         stack = []
