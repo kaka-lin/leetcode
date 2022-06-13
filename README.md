@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 65** (<span style="color:green">Easy: 33</span>, <span style="color:orange">Medium: 32</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 66** (<span style="color:green">Easy: 34</span>, <span style="color:orange">Medium: 32</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -42,6 +42,7 @@
 | 00206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <a href='leetcode/00206_reverse-linked-list/206-reverse-linked-list.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | <a href='leetcode/00215_kth-largest-element-in-an-array/215-kth-largest-element-in-an-array.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <a href='leetcode/00217_contains-duplicate/217-contains-duplicate.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | <a href='leetcode/00235_lowest-common-ancestor-of-a-binary-search-tree/235-lowest-common-ancestor-of-a-binary-search-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | <a href='leetcode/00236_lowest-common-ancestor-of-a-binary-tree/236-lowest-common-ancestor-of-a-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | <a href='leetcode/00240_search-a-2d-matrix-ii/240-search-a-2d-matrix-ii.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | <a href='leetcode/00257_binary-tree-paths/257-binary-tree-paths.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
