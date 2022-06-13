@@ -31,5 +31,3 @@ class Solution:
             
         
         return "".join(encoded_string[-1])
-        
-        
