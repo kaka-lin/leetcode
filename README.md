@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 69** (<span style="color:green">Easy: 36</span>, <span style="color:orange">Medium: 33</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 70** (<span style="color:green">Easy: 36</span>, <span style="color:orange">Medium: 34</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -57,6 +57,7 @@
 | 00371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | <a href='leetcode/00371_sum-of-two-integers/371-sum-of-two-integers.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | <a href='leetcode/00387_first-unique-character-in-a-string/387-first-unique-character-in-a-string.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | <a href='leetcode/00389_find-the-difference/389-find-the-difference.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00394 | [Decode String](https://leetcode.com/problems/decode-string/) | <a href='leetcode/00394_decode-string/394-decode-string.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00494 | [Target Sum](https://leetcode.com/problems/target-sum/) | <a href='leetcode/00494_target-sum/494-target-sum.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | <a href='leetcode/00509_fibonacci-number/509-fibonacci-number.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | <a href='leetcode/00542_01-matrix/542-01-matrix.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
