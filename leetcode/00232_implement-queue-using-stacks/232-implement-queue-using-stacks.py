@@ -21,6 +21,10 @@
 #         return True if not self.queue else False
 
 
+# [Two Stacks]:
+# Push - O(1) per operation
+# Pop - Amortized O(1) per operation
+#       Worst-case O(n)
 class MyQueue:
     def __init__(self):
         self.input_stack = []
