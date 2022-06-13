@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 63** (<span style="color:green">Easy: 31</span>, <span style="color:orange">Medium: 32</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 65** (<span style="color:green">Easy: 33</span>, <span style="color:orange">Medium: 32</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -22,6 +22,7 @@
 | 00075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | <a href='leetcode/00075_sort-colors/75-sort-colors.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | <a href='leetcode/00094_binary-tree-inorder-traversal/94-binary-tree-inorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | <a href='leetcode/00098_validate-binary-search-tree/98-validate-binary-search-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
+| 00100 | [Same Tree](https://leetcode.com/problems/same-tree/) | <a href='leetcode/00100_same-tree/100-same-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | <a href='leetcode/00101_symmetric-tree/101-symmetric-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | <a href='leetcode/00102_binary-tree-level-order-traversal/102-binary-tree-level-order-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | <a href='leetcode/00104_maximum-depth-of-binary-tree/104-maximum-depth-of-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
@@ -55,6 +56,7 @@
 | 00494 | [Target Sum](https://leetcode.com/problems/target-sum/) | <a href='leetcode/00494_target-sum/494-target-sum.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | <a href='leetcode/00509_fibonacci-number/509-fibonacci-number.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | <a href='leetcode/00542_01-matrix/542-01-matrix.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
+| 00572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | <a href='leetcode/00572_subtree-of-another-tree/572-subtree-of-another-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | <a href='leetcode/00575_distribute-candies/575-distribute-candies.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | <a href='leetcode/00606_construct-string-from-binary-tree/606-construct-string-from-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | <a href='leetcode/00617_merge-two-binary-trees/617-merge-two-binary-trees.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
