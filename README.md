@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 70** (<span style="color:green">Easy: 36</span>, <span style="color:orange">Medium: 34</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 72** (<span style="color:green">Easy: 37</span>, <span style="color:orange">Medium: 35</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -72,6 +72,8 @@
 | 00721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | <a href='leetcode/00721_accounts-merge/721-accounts-merge.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | <a href='leetcode/00739_daily-temperatures/739-daily-temperatures.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | <a href='leetcode/00752_open-the-lock/752-open-the-lock.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
+| 00783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | <a href='leetcode/00783_minimum-distance-between-bst-nodes/783-minimum-distance-between-bst-nodes.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | <a href='leetcode/00814_binary-tree-pruning/814-binary-tree-pruning.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
+| 00863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | <a href='leetcode/00863_all-nodes-distance-k-in-binary-tree/863-all-nodes-distance-k-in-binary-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | <a href='leetcode/00912_sort-an-array/912-sort-an-array.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 
