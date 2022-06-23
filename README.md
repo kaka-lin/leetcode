@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 74** (<span style="color:green">Easy: 38</span>, <span style="color:orange">Medium: 36</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 75** (<span style="color:green">Easy: 38</span>, <span style="color:orange">Medium: 37</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -21,6 +21,7 @@
 | 00071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | <a href='leetcode/00071_simplify-path/71-simplify-path.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | <a href='leetcode/00075_sort-colors/75-sort-colors.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | <a href='leetcode/00094_binary-tree-inorder-traversal/94-binary-tree-inorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | <a href='leetcode/00095_unique-binary-search-trees-ii/95-unique-binary-search-trees-ii.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | <a href='leetcode/00098_validate-binary-search-tree/98-validate-binary-search-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00100 | [Same Tree](https://leetcode.com/problems/same-tree/) | <a href='leetcode/00100_same-tree/100-same-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | <a href='leetcode/00101_symmetric-tree/101-symmetric-tree.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
