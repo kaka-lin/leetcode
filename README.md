@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 78** (<span style="color:green">Easy: 38</span>, <span style="color:orange">Medium: 40</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 78** (<span style="color:green">Easy: 37</span>, <span style="color:orange">Medium: 41</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -15,7 +15,7 @@
 | 00024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | <a href='leetcode/00024_swap-nodes-in-pairs/24-swap-nodes-in-pairs.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | <a href='leetcode/00048_rotate-image/48-rotate-image.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | <a href='leetcode/00050_powx-n/50-powx-n.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
-| 00053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | <a href='leetcode/00053_maximum-subarray/53-maximum-subarray.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | <a href='leetcode/00053_maximum-subarray/53-maximum-subarray.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00067 | [Add Binary](https://leetcode.com/problems/add-binary/) | <a href='leetcode/00067_add-binary/67-add-binary.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | <a href='leetcode/00070_climbing-stairs/70-climbing-stairs.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | <a href='leetcode/00071_simplify-path/71-simplify-path.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
