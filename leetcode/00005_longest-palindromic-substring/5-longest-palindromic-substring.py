@@ -1,36 +1,42 @@
+# Dynamic Programming
 # class Solution:
 #     def longestPalindrome(self, s: str) -> str:
-#         length = len(s)
-#         max_window = 1
-#         start = end = 0
+#         n = len(s)
+#         left = right = 0
+#         max_length = 0
+#         p_dp = [[0] * n for _ in range(n)]
 
-#         for i in range(length):
-#             odd = self.palindromeAt(s, i, i) # 單數框
-#             even = self.palindromeAt(s, i, i+1) # 偶數框
+#         # Base case: Odd
+#         for i in range(n):
+#             p_dp[i][i] = True
+#             max_length = 1
+#             left = i
+#             right = i+1
 
-#             _len = odd if odd >= even else even
-#             if (_len > max_window):
-#                 max_window = _len
-#                 start = i - (_len - 1) // 2
-#                 end = i + _len // 2
-        
-#         return s[start:end+1]
-    
-#     # starting at l,r expand outwards to find the biggest palindrome
-#     # get the longest palindrome, l, r are the middle indexes   
-#     # from inner to outer
-#     def palindromeAt(self, s, l, r):
-#         while l >= 0 and r < len(s) and s[l] == s[r]:
-#             l -= 1
-#             r += 1
-        
-#         # 因為 left 與 right 會停在 s[left] != s[right]
-#         #   => window 大小會多 "2"
-#         # 但因為 index 是從 0 開始
-#         #   => 所以 right - left - 1 即為 window 大小
-#         return r - l - 1
+#         # Base case: Even
+#         for i in range(n-1):
+#             if s[i] == s[i+1]:
+#                 p_dp[i][i+1] = True # base case
+#                 max_length = 2
+#                 left = i
+#                 right = i+2
+
+#         # Recursive case:
+#         # P(i,j) = P(i+1,j−1) and S[i] == S[j]
+#         # 採用『由上而下由左而右』進行搜索。
+#         for j in range(n): # End
+#             for i in range(j-1): # Start
+#                 if s[i] == s[j] and p_dp[i+1][j-1]:
+#                     p_dp[i][j] = True
+#                     if j - i + 1 > max_length:
+#                         left = i
+#                         right = j+1
+#                         max_length = j - i + 1
+
+#         return s[left:right]
 
 
+# Expand Around Center
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         res = ""
