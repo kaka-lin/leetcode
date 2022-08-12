@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 78** (<span style="color:green">Easy: 37</span>, <span style="color:orange">Medium: 41</span>, <span style="color:red">Hard: 0</span>)
+**Problem Solved: 79** (<span style="color:green">Easy: 37</span>, <span style="color:orange">Medium: 42</span>, <span style="color:red">Hard: 0</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -13,6 +13,7 @@
 | 00020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | <a href='leetcode/00020_valid-parentheses/20-valid-parentheses.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <a href='leetcode/00021_merge-two-sorted-lists/21-merge-two-sorted-lists.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | <a href='leetcode/00024_swap-nodes-in-pairs/24-swap-nodes-in-pairs.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
+| 00038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | <a href='leetcode/00038_count-and-say/38-count-and-say.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | <a href='leetcode/00048_rotate-image/48-rotate-image.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | <a href='leetcode/00050_powx-n/50-powx-n.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | <a href='leetcode/00053_maximum-subarray/53-maximum-subarray.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
