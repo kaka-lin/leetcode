@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 87** (<span style="color:green">Easy: 38</span>, <span style="color:orange">Medium: 48</span>, <span style="color:red">Hard: 1</span>)
+**Problem Solved: 88** (<span style="color:green">Easy: 38</span>, <span style="color:orange">Medium: 49</span>, <span style="color:red">Hard: 1</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -42,6 +42,7 @@
 | 00134 | [Gas Station](https://leetcode.com/problems/gas-station/) | <a href='leetcode/00134_gas-station/134-gas-station.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | <a href='leetcode/00144_binary-tree-preorder-traversal/144-binary-tree-preorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | <a href='leetcode/00145_binary-tree-postorder-traversal/145-binary-tree-postorder-traversal.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
+| 00146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | <a href='leetcode/00146_lru-cache/146-lru-cache.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | <a href='leetcode/00150_evaluate-reverse-polish-notation/150-evaluate-reverse-polish-notation.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00155 | [Min Stack](https://leetcode.com/problems/min-stack/) | <a href='leetcode/00155_min-stack/155-min-stack.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | <a href='leetcode/00200_number-of-islands/200-number-of-islands.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
