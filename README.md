@@ -1,6 +1,6 @@
 # Leetcode
 
-**Problem Solved: 86** (<span style="color:green">Easy: 38</span>, <span style="color:orange">Medium: 47</span>, <span style="color:red">Hard: 1</span>)
+**Problem Solved: 87** (<span style="color:green">Easy: 38</span>, <span style="color:orange">Medium: 48</span>, <span style="color:red">Hard: 1</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -14,6 +14,7 @@
 | 00021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <a href='leetcode/00021_merge-two-sorted-lists/21-merge-two-sorted-lists.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Easy |
 | 00024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | <a href='leetcode/00024_swap-nodes-in-pairs/24-swap-nodes-in-pairs.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | <a href='leetcode/00025_reverse-nodes-in-k-group/25-reverse-nodes-in-k-group.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Hard |
+| 00033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | <a href='leetcode/00033_search-in-rotated-sorted-array/33-search-in-rotated-sorted-array.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | <a href='leetcode/00038_count-and-say/38-count-and-say.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | <a href='leetcode/00048_rotate-image/48-rotate-image.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
 | 00050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | <a href='leetcode/00050_powx-n/50-powx-n.py'><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='20' height='20'></a> | Medium |
